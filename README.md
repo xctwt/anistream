@@ -11,7 +11,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/anistream.git
+   git clone https://github.com/xctwt/anistream.git
    cd anistream
    ```
 
